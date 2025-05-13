@@ -5,7 +5,7 @@
 ---
 ⚠️ **Archived Notice**
 
-This project, formerly known as **LexCode**, has been succeeded by **[LexTML](https://github.com/yourusername/LexTML)**.
+This project, formerly known as **LexCode**, has been succeeded by **[LexTML](https://github.com/lexokazaki/LexTML)**.
 
 LexTML expands on the original ideas of symbolic emotional markup with better structure, modularity, and contextual intelligence.
 
