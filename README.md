@@ -3,6 +3,16 @@
 **LexCode** is a symbolic markup framework designed for emotional and physical expression in AI and robotic systems. It encodes emotion, nuance, gesture, and ethical context into compact strings—enabling emotionally-aware communication between agents, users, and appliances.
 
 ---
+⚠️ **Archived Notice**
+
+This project, formerly known as **LexCode**, has been succeeded by **[LexTML](https://github.com/yourusername/LexTML)**.
+
+LexTML expands on the original ideas of symbolic emotional markup with better structure, modularity, and contextual intelligence.
+
+This repo is preserved for reference only.
+
+
+
 
 ## 📄 White Paper
 
